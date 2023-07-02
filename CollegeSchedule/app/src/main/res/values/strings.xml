@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">College Schedule</string>
+    <string name="btn_select">Показати розклад групи</string>
+    <string name="label_text_choose_group">Виберіть групу</string>
+    <string name="monday">ПН</string>
+    <string name="tuesday">ВТ</string>
+    <string name="wednesday">СР</string>
+    <string name="thursday">ЧТ</string>
+    <string name="friday">ПТ</string>
+    <string name="logo_description">Логотип коледжу</string>
+
+    <array name="groups">
+        <item>31-КІ</item>
+        <item>31-ПЗ</item>
+        <item>32-ПЗ</item>
+        <item>31-АП</item>
+        <item>31-АКТ</item>
+    </array>
+
+</resources>
